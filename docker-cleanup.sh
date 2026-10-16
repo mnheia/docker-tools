@@ -1,4 +1,9 @@
 #!/usr/bin/env bash
+# Author: mnheia
+# Copyright (c) 2026 mnheia
+# Repository: https://github.com/mnheia/docker-tools
+# License: GPL-3.0 (see LICENSE)
+
 set -Eeuo pipefail
 
 LOCK="${LOCK:-/run/lock/docker-cleanup.lock}"

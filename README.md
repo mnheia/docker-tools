@@ -1,4 +1,4 @@
-Copyright (c) 2026, Mnheia <mnheia@gmail.com>
+Copyright (c) 2026, mnheia
 
 # docker-tools
 Small Bash utilities for Docker maintenance and cleanup.
